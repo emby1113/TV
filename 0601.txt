@@ -1,18 +1,5 @@
-//直播源本地路径：clan://localhost/ITVBox/tv/tvonline.txt
-//直播源在线路径：http://itv.22m.top/ITVBox/tv/tvonline.txt
-//diyp专用版epg：http://diyp1.112114.xyz/
 
-//北京联通组播IP端口：ikuai.zlsip.top:4022
-//河北联通组播IP端口：www.xingwen.online:9810     //河北电信组播IP端口：www.biaowen.net:4022
-//云南电信组播IP端口：enlen.vip:4022
-//四川电信组播IP端口：xeace.cn:8888
-//湖南电信组播IP端口：www.erbao1981.top:8188
-//湖北电信组播IP端口：www.hiliu.myds.me:8088
-//贵州电信组播IP端口：www.qhjx.top:18000
-//天津联通组播IP端口：ha.xushining.com:50000
-//河南联通组播IP端口：115.60.241.249:2000
-//港澳频道token：631170156107453
-//斗鱼1线：http://zzy789.xyz/douyu1.php?id= 斗鱼2线：http://159.75.85.63:35455/douyu/ 
+
 
 
 央视,#genre#,http://epg.mxdyeah.top/api/diyp/
@@ -318,9 +305,7 @@ CGTN记录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CHC高清电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
-CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
-CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
-CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+
 
 
 
@@ -338,7 +323,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 电视剧11,http://zby.xjqxz.top/dzzypd/live.m3u8
 电视剧12,http://zby.xjqxz.top/dzzypd2/live.m3u8
 电视剧13,http://zby.xjqxz.top/dzzypd3/live.m3u8
-
 电视剧14,http://37.27.111.214:8080/live/108/hls.m3u8
 电视剧15,http://37.27.111.214:8080/live/109/hls.m3u8
 电视剧16,http://37.27.111.214:8080/live/111/hls.m3u8
@@ -346,8 +330,6 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 动漫2台,http://37.27.111.214:8080/live/106/hls.m3u8
 
 
-
-忠诚电影,#genre#
 
 
 演员专区,#genre#
@@ -408,6 +390,7 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 🔷神探狄仁杰,http://zzy789.xyz/douyu1.php?id=6027991 # http://159.75.85.63:35455/douyu/6027991
 🔷神话,http://zzy789.xyz/douyu1.php?id=5448413 # http://159.75.85.63:35455/douyu/5448413
 
+
 虎牙电影,#genre#
 女神系列①,https://cfss.cc/cdn/hy/11336571.flv
 女神系列②,https://cfss.cc/cdn/hy/11352909.flv
@@ -441,70 +424,8 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 救援大片,https://cfss.cc/cdn/hy/21059594.flv
 惊悚恐怖,https://cfss.cc/cdn/hy/11601960.flv
 
-虎牙电视,#genre#
-鬼吹灯之精绝古城,https://cfss.cc/cdn/hy/11352871.flv
-鬼吹灯之怒晴湘西,https://cfss.cc/cdn/hy/11602075.flv
-鬼吹灯之龙岭迷窟,https://cfss.cc/cdn/hy/29465863.flv
-鬼吹灯之昆仑神宫,https://cfss.cc/cdn/hy/11601957.flv
-鬼吹灯之云南虫谷,https://cfss.cc/cdn/hy/11352898.flv
-鬼吹灯之南海归墟,https://cfss.cc/cdn/hy/11352883.flv
-亮剑,https://cfss.cc/cdn/hy/30080238.flv
-武侠剧┃金庸,https://cfss.cc/cdn/hy/11602082.flv
-西游记┃张卫健,https://cfss.cc/cdn/hy/23728660.flv
-西游记┃陈浩民,https://cfss.cc/cdn/hy/23735126.flv
-封神榜┃陈浩民,https://cfss.cc/cdn/hy/23749096.flv
-鹿鼎记┃陈小春,https://cfss.cc/cdn/hy/23865080.flv
-鹿鼎记┃梁朝伟,https://cfss.cc/cdn/hy/23734183.flv
-刑事侦缉档案,https://cfss.cc/cdn/hy/23734169.flv
-我的野蛮婆婆,https://cfss.cc/cdn/hy/23863796.flv
-大唐双龙传,https://cfss.cc/cdn/hy/23728674.flv
-倚天屠龙记,https://cfss.cc/cdn/hy/23734246.flv
-九阴真经,https://cfss.cc/cdn/hy/23824164.flv
-神雕侠侣,https://cfss.cc/cdn/hy/23865171.flv
-天龙八部,https://cfss.cc/cdn/hy/23903123.flv
-笑傲江湖,https://cfss.cc/cdn/hy/23865142.flv
-楚汉骄雄,https://cfss.cc/cdn/hy/23740156.flv
-法证先锋3,https://cfss.cc/cdn/hy/23863804.flv
-陀枪师姐,https://cfss.cc/cdn/hy/23860039.flv
-金枝欲孽,https://cfss.cc/cdn/hy/23865036.flv
-使徒行者,https://cfss.cc/cdn/hy/23734256.flv
-扫黄先锋,https://cfss.cc/cdn/hy/23903196.flv
-鉴证实录,https://cfss.cc/cdn/hy/23903183.flv
-笑看风云,https://cfss.cc/cdn/hy/23865058.flv
-妙手仁心,https://cfss.cc/cdn/hy/23829543.flv
-洗冤录,https://cfss.cc/cdn/hy/23903130.flv
-创世纪,https://cfss.cc/cdn/hy/23749083.flv
-寻秦记,https://cfss.cc/cdn/hy/23864973.flv
-大时代,https://cfss.cc/cdn/hy/23865161.flv
-陈翔六点半,https://cfss.cc/cdn/hy/11274154.flv
-老三国演义,https://cfss.cc/cdn/hy/11602081.flv
-新三国演义,https://cfss.cc/cdn/hy/11352944.flv
-第八号当铺,https://cfss.cc/cdn/hy/21059568.flv
-新水浒传,https://cfss.cc/cdn/hy/11342384.flv
-神医喜来乐,https://cfss.cc/cdn/hy/11601978.flv
-神探狄仁杰①,https://cfss.cc/cdn/hy/11352958.flv
-神探狄仁杰③,https://cfss.cc/cdn/hy/11342425.flv
-活佛济公,https://cfss.cc/cdn/hy/11342400.flv
-康熙微服私访记,https://cfss.cc/cdn/hy/11342418.flv
-铁道游击队,https://cfss.cc/cdn/hy/11352936.flv
-宝莲灯,https://cfss.cc/cdn/hy/21059563.flv
-庆余年,https://cfss.cc/cdn/hy/11352960.flv
-葛二蛋,https://cfss.cc/cdn/hy/11602072.flv
-许三多,https://cfss.cc/cdn/hy/11342430.flv
-大秦赋,https://cfss.cc/cdn/hy/11352881.flv
-家有儿女,https://cfss.cc/cdn/hy/11352872.flv
-邻里一家亲,https://cfss.cc/cdn/hy/11342426.flv
-镖行天下,https://cfss.cc/cdn/hy/11352969.flv
-加勒比海盗,https://cfss.cc/cdn/hy/21059595.flv
-死神来了,https://cfss.cc/cdn/hy/11352903.flv
-蜘蛛侠,https://cfss.cc/cdn/hy/21059599.flv
-硬汉007,https://cfss.cc/cdn/hy/21059585.flv
+
+忠诚电影,#genre#
 
 
 
-
-
-
-🏠测试频道_0506,#genre#
-🔞随机播放频道1,http://lzoq.2.hk3.xyyun.publicvm.com/daili/sx.php
-🔞随机播放频道2,http://lzo.37.gay/daili/sx.php
