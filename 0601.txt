@@ -377,7 +377,7 @@ CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index
 
 
 演员专区,#genre#
-林正英,http://A/ku9/js/douyu.js?id=7356023,http://A/ku9/js/douyu.js?id=218859
+林正英,http://A/ku9/js/douyu.js?id=7356023 # http://A/ku9/js/douyu.js?id=218859
 周星驰,http://blanki.cf/api/douyu.php?id=122402
 周润发,https://cfss.cc/cdn/hy/11342387.flv
 梁家辉,https://cfss.cc/cdn/hy/11342429.flv
