@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "url": "https://github.moeyy.xyz/https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json",
       "name": "线路①<南风>"
     },
     {
@@ -17,12 +17,12 @@
       "name": "线路④<洁宝短剧>"
     },
     {
-      "url": "http://我不是.摸鱼儿.com",
+      "url": "http://我不是.摸鱼儿.xyz",
       "name": "线路⑤<摸鱼>"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "name": "线路⑥<放牛娃>"
+      "name": "线路⑥<王二小>"
     }
   ]
 }
