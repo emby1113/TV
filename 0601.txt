@@ -86,10 +86,6 @@ CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index
 山西卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
 
 
-
-
-
-
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
@@ -131,12 +127,12 @@ CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index
 
 山东齐鲁,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
 山东新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-山东体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+山东体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000373/index.m3u8
 山东生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
 山东文旅,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
 山东综艺,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
 山东农科,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-山东少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u88
+山东少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000375/index.m3u8
 淄博影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
 淄博新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
 淄博生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8
@@ -153,6 +149,16 @@ CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index
 CHC高清电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+都市剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
+精彩影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+黑莓电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
+晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
@@ -177,18 +183,6 @@ NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-黑莓电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
-晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-都市剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
-精彩影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
-
-
-
 
 
 
