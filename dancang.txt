@@ -1,28 +1,28 @@
 {
   "urls": [
     {
-      "url": "http://miqk.cc/小米/DEMO.json",
-      "name": "线路①<小米>"
-    },
-    {
       "url": "http://www.饭太硬.com/tv/",
-      "name": "线路②<饭太硬>"
+      "name": "线路①<饭太硬>"
     },
     {
       "url": "http://肥猫.com/你好",
-      "name": "线路③<肥猫>"
+      "name": "线路②<肥猫>"
     },
     {
-      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
-      "name": "线路④<洁宝短剧>"
+      "url": "http://miqk.cc/小米/DEMO.json",
+      "name": "线路③<小米>"
     },
     {
       "url": "http://我不是.摸鱼儿.xyz",
-      "name": "线路⑤<摸鱼>"
+      "name": "线路④<摸鱼>"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "name": "线路⑥<王二小>"
+      "name": "线路⑤<王二小>"
+    },
+    {
+      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+      "name": "线路⑥<洁宝短剧>"
     }
   ]
 }
