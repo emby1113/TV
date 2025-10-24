@@ -1,28 +1,52 @@
 {
   "urls": [
     {
-      "url": "http://www.饭太硬.com/tv/",
+      "url": "http://www.饭太硬.com/tv",
       "name": "线路①<饭太硬>"
     },
     {
-      "url": "https://6296.kstore.vip/facat.json",
-      "name": "线路②<肥猫>"
-    },
-    {
       "url": "http://miqk.cc/小米/DEMO.json",
-      "name": "线路③<小米>"
+      "name": "线路②<小米>"
     },
     {
-      "url": "http://我不是.摸鱼儿.xyz",
-      "name": "线路④<摸鱼>"
+      "url": "http://hello.肥猫.com",
+      "name": "线路③<肥猫>"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "name": "线路⑤<王二小>"
+      "name": "线路④<王二小>"
     },
     {
-      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
-      "name": "线路⑥<洁宝短剧>"
+      "url": "http://ok321.top/ok",
+      "name": "线路⑤<OK>"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "线路⑥<摸鱼>"
+    },
+    {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "线路⑦<潇洒>"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "name": "线路⑧<小虎斑>"
+    },
+    {
+      "url": "https://xn--anna-wn6lw489o.v.nxog.top/m",
+      "name": "线路⑨<欧歌>"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "线路⑩<香雅情>"
+    },
+    {
+      "url": "ttp://box.ufuzi.com/tv/qq/短剧频道/api.json",
+      "name": "线路⑪<洁宝短剧>"
+    },
+    {
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "name": "线路⑫<少儿频道>"
     }
   ]
 }
