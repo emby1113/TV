@@ -29,7 +29,7 @@
       "name": "线路⑦<潇洒>"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "url": "https://gh-proxy.com/https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/XC.json",
       "name": "线路⑧<南风>"
     },
     {
@@ -37,11 +37,11 @@
       "name": "线路⑨<欧歌>"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "url": "https://gh-proxy.com/https://raw.bgithub.xyz/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "线路⑩<香雅情>"
     },
     {
-      "url": "ttp://box.ufuzi.com/tv/qq/短剧频道/api.json",
+      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
       "name": "线路⑪<洁宝短剧>"
     },
     {
@@ -50,3 +50,4 @@
     }
   ]
 }
+
